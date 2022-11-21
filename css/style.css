@@ -21,7 +21,7 @@
 }
 
 *::-webkit-scrollbar{
-   height: .5rem;
+   height: 0.5rem;
    width: 1rem;
 }
 
